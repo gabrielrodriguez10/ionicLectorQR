@@ -32,3 +32,5 @@
     ionic cordova build android
 
 - la construccion del proyecto para Android genera una carpeta llamada platforms la cual no se debe colocar en el archivo .gitignore
+
+- Para ejecutar el proyecto en Android Studio se debe ubicar la carpeta platforms/android.
