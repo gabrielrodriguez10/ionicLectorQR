@@ -1,0 +1,7 @@
+{
+  "name": "lectorqr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
